@@ -1,0 +1,90 @@
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/appsettings.Development.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/appsettings.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/VKProfileTask
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VkProfileTask/VKProfileTask/bin/Debug/net6.0/VKProfileTask.deps.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VkProfileTask/VKProfileTask/bin/Debug/net6.0/VKProfileTask.runtimeconfig.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/VKProfileTask.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/VKProfileTask.pdb
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/obj/Debug/net6.0/VKProfileTask.csproj.AssemblyReference.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/obj/Debug/net6.0/VKProfileTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/obj/Debug/net6.0/VKProfileTask.AssemblyInfoInputs.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/obj/Debug/net6.0/VKProfileTask.AssemblyInfo.cs
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/obj/Debug/net6.0/VKProfileTask.csproj.CoreCompileInputs.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/obj/Debug/net6.0/VKProfileTask.MvcApplicationPartsAssemblyInfo.cs
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/obj/Debug/net6.0/VKProfileTask.MvcApplicationPartsAssemblyInfo.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/obj/Debug/net6.0/staticwebassets.build.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/obj/Debug/net6.0/staticwebassets.development.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/obj/Debug/net6.0/scopedcss/bundle/VKProfileTask.styles.css
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VkProfileTask/VKProfileTask/obj/Debug/net6.0/VKProfileTask.csproj.CopyComplete
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/obj/Debug/net6.0/VKProfileTask.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/obj/Debug/net6.0/refint/VKProfileTask.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/obj/Debug/net6.0/VKProfileTask.pdb
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VkProfileTask/VKProfileTask/obj/Debug/net6.0/VKProfileTask.genruntimeconfig.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VkProfileTask/VKProfileTask/obj/Debug/net6.0/ref/VKProfileTask.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Npgsql.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/VKProfileTask/VKProfileTask/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/VKProfileTask.pdb
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/appsettings.Development.json
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/appsettings.json
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/VKProfileTask
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/VKProfileTask.deps.json
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/VKProfileTask.runtimeconfig.json
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/VKProfileTask.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/VKProfileTask.pdb
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Npgsql.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/VKProfileTask.csproj.AssemblyReference.cache
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/VKProfileTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/VKProfileTask.AssemblyInfoInputs.cache
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/VKProfileTask.AssemblyInfo.cs
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/VKProfileTask.csproj.CoreCompileInputs.cache
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/VKProfileTask.MvcApplicationPartsAssemblyInfo.cs
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/VKProfileTask.MvcApplicationPartsAssemblyInfo.cache
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/VKProfileTask.sourcelink.json
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/staticwebassets.build.json
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/staticwebassets.development.json
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/staticwebassets/msbuild.VKProfileTask.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/staticwebassets/msbuild.build.VKProfileTask.props
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.VKProfileTask.props
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.VKProfileTask.props
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/scopedcss/bundle/VKProfileTask.styles.css
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/VKProfil.71491B7F.Up2Date
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/VKProfileTask.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/refint/VKProfileTask.dll
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/VKProfileTask.genruntimeconfig.cache
+/Users/natalazaharova/Downloads/VKProfileTask-main/VKProfileTask/obj/Debug/net6.0/ref/VKProfileTask.dll
